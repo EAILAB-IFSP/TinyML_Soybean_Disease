@@ -17,4 +17,8 @@ Figure below shows the hardware connection
 
 ![image](https://github.com/EAILAB-IFSP/TinyML_Soybean_Disease/blob/main/Circuit_of_Hardware.png)
 
+A case is designed to accommodate the hardware and allow easy use in the field by the farmer. Figure below shows the case and the hardware inside.
 
+![image](https://github.com/EAILAB-IFSP/TinyML_Soybean_Disease/blob/main/Prototype%20Case%20in%203D%20Printer.jpg)
+
+![image](https://github.com/EAILAB-IFSP/TinyML_Soybean_Disease/blob/main/Prototype_Assembled.png)
