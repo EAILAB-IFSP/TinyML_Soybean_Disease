@@ -56,4 +56,25 @@ Now, clicking on the "Cartilhas" button...
 
 ![image](https://github.com/EAILAB-IFSP/TinyML_Soybean_Disease/blob/main/BI%20Cartilhas%20Page.png)
 
+The farmer can access information about soy diseases that occur the most in Brazil. For example, by clicking in the "Mancha Alvo" button (Target Spot Disease), the following page is accessed, with a brief information about the disease. Also, there are 2 buttons below left. First related to indicated products to mitigate the disease. The second is more detailed information related to the disease by the brasilian agro research center EMBRAPA.
+
+![image](https://github.com/EAILAB-IFSP/TinyML_Soybean_Disease/blob/main/BI%20Cartilha%20Target%20Spot%20page.png)
+
+![image](https://github.com/EAILAB-IFSP/TinyML_Soybean_Disease/blob/main/BI%20Product%20Abacus%20for%20Target%20Spot.png)
+
+The same process for the other diseases.
+
+For Asian Rust (Ferugem Asiática in Portuguese)
+
+![image](https://github.com/EAILAB-IFSP/TinyML_Soybean_Disease/blob/main/BI%20Cartilha%20Asian%20Rust%20page.png)
+
+For Potassioum Deficiency (Deficiência de Potássio in Portuguese)
+
+![image](https://github.com/EAILAB-IFSP/TinyML_Soybean_Disease/blob/main/BI%20Cartilha%20Potassioum%20Deficiency.png)
+
+and For Frogeye (Olho de Rã in Portuguese)
+
+![image](https://github.com/EAILAB-IFSP/TinyML_Soybean_Disease/blob/main/BI%20Cartilha%20Frogeye%20page.png)
+
+
 
