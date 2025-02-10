@@ -15,7 +15,7 @@ Figure below shows the Intelligent System For Identifying Leaf Diseases In Soybe
 
 Hardware: ESP32-CAM, SD-Card, GPS Receiver model GY-NEO6MV2, 0.96" OLED Display, Liter Energy Battery SD 303040, 3.7V/450mAh
 
-Figure below shows the hardware connection
+Figure below shows the hardware connection.
 
 ![image](https://github.com/EAILAB-IFSP/TinyML_Soybean_Disease/blob/main/Circuit_of_Hardware.png)
 
@@ -36,7 +36,15 @@ Figure below shows the hardware collecting samples of leaves, with date/time/coo
 
 ![image](https://github.com/EAILAB-IFSP/TinyML_Soybean_Disease/blob/main/Collecting%20Samples.png)
 
-Lter the farmer can analyse the results in a Microsoft BI specially designed for the Intelligent System For Identifying Leaf Diseases In Soybean Crop. Because the intention is to small brazilian farmers, all the screens are in Portuguese language.
+The SD card can be removed from the hardware as in the figure below.
+
+![image](https://github.com/EAILAB-IFSP/TinyML_Soybean_Disease/blob/main/SD%20Card%20remotion.png)
+
+The microcontroller generate the images in folders and also generate a sheet in .csv format. The files and folders are as the figure below.
+
+![image](https://github.com/EAILAB-IFSP/TinyML_Soybean_Disease/blob/main/SD%20Card%20folder%20and%20files%20created.png)
+
+Later the farmer can analyse the results in a Microsoft BI specially designed for the Intelligent System For Identifying Leaf Diseases In Soybean Crop. Because the intention is to small brazilian farmers, all the screens are in Portuguese language.
 
 Figure below shows the main BI homepage, called "Agro Vision"
 
@@ -72,7 +80,7 @@ For Potassioum Deficiency (Deficiência de Potássio in Portuguese)
 
 ![image](https://github.com/EAILAB-IFSP/TinyML_Soybean_Disease/blob/main/BI%20Cartilha%20Potassioum%20Deficiency.png)
 
-and For Frogeye (Olho de Rã in Portuguese)
+and for Frogeye (Olho de Rã in Portuguese)
 
 ![image](https://github.com/EAILAB-IFSP/TinyML_Soybean_Disease/blob/main/BI%20Cartilha%20Frogeye%20page.png)
 
