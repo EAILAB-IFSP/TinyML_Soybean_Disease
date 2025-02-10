@@ -21,8 +21,29 @@ Figure below shows the hardware connection
 
 The code is in the file "Source Code.pdf", available in the repository in the link: https://github.com/EAILAB-IFSP/TinyML_Soybean_Disease/blob/main/Source%20Code.pdf
 
+Libraries from Edge Impulse fot the Intelligent System For Identifying Leaf Diseases In Soybean Crop
+
+#include <Soja2024_v1_inferencing.h> // Edge Impulse ML Inferencing System
+#include "edge-impulse-sdk/dsp/image/image.hpp"
+
 A case is designed to accommodate the hardware and allow easy use in the field by the farmer. Figure below shows the case and the hardware inside.
 
 ![image](https://github.com/EAILAB-IFSP/TinyML_Soybean_Disease/blob/main/Prototype%20Case%20in%203D%20Printer.jpg)
 
 ![image](https://github.com/EAILAB-IFSP/TinyML_Soybean_Disease/blob/main/Prototype_Assembled.png)
+
+Figure below shows the hardware collecting samples of leaves, with date/time/coordinates and diagnostic.
+
+![image](https://github.com/EAILAB-IFSP/TinyML_Soybean_Disease/blob/main/Collecting%20Samples.png)
+
+Lter the farmer can analyse the results in a Microsoft BI specially designed for the Intelligent System For Identifying Leaf Diseases In Soybean Crop. Because the intention is to small brazilian farmers, all the screens are in Portuguese language.
+
+Figure below shows the main BI homepage, called "Agro Vision"
+
+![image](https://github.com/EAILAB-IFSP/TinyML_Soybean_Disease/blob/main/BI%20Main%20Homepage.png)
+
+With 2 buttons: "Dashboard" for reports and maps and "Cartilhas" (booklet) for disease information and how to mitigate it, from oficial brazilian agro research center, called EMBRAPA.
+
+Clicking on Dashboard...
+
+![image](https://github.com/EAILAB-IFSP/TinyML_Soybean_Disease/blob/main/BI%20Dashboard%20page.png
