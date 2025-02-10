@@ -40,7 +40,7 @@ The SD card can be removed from the hardware as in the figure below.
 
 ![image](https://github.com/EAILAB-IFSP/TinyML_Soybean_Disease/blob/main/SD%20Card%20remotion.png)
 
-The microcontroller generate the images in folders and also generate a sheet in .csv format. The files and folders are as the figure below.
+The microcontroller generate the images in folders and also generate a sheet in .csv format, called "dados.csv". The files and folders are as the figure below.
 
 ![image](https://github.com/EAILAB-IFSP/TinyML_Soybean_Disease/blob/main/SD%20Card%20folder%20and%20files%20created.png)
 
