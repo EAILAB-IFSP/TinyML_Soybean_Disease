@@ -9,6 +9,11 @@ Later, when the farmer has computer and internet facilities, he can open Microso
 
 A convolutional neural network (CNN) model was developed on the Edge Impulse platform, achieving an accuracy of 87.7% in classifying five prevalent diseases in Brazil: Target Spot (mancha alvo in Portuguese), Asian Rust (ferrugem asiática in Portuguese), Frog Eye Leaf Spot (olho de rã in Portuguese), Potassium Deficiency (deficiência de potássio in Portuguese), and the Healthy (saudável in Portuguese) class. The Edge Impulse export the ML model as an Arduino library that can be built as part of the microcontroller code.
 
+To build the ML model by Edge Impulse, a dataset of images were used, from 2 souces:
+
+1. Images collected in Tallassee, Alabama-USA in 2020 and 2021 available at https://datadryad.org/stash/dataset/doi:10.5061/dryad.41ns1rnj3, from the article available at: https://doi.org/10.1016/j.compag.2022.107449.
+2. Images captured by EMBRAPA, available at https://www.redape.dados.embrapa.br/dataset.xhtml?persistentId=doi%3A10.48432%2FXA1OVL&fileTypeGroupFacet=%22Document%22&fileAccess=Public, from the article available at: https://doi.org/10.1016/j.biosystemseng.2016.03.012.
+
 Figure below shows the Intelligent System For Identifying Leaf Diseases In Soybean Crop process flow.
 
 ![image](https://github.com/EAILAB-IFSP/TinyML_Soybean_Disease/blob/main/Flowchart%20of%20Process.png)
