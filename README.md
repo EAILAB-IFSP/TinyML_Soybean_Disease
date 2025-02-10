@@ -7,7 +7,7 @@ The system allows the farmer to take photos from leafs in the soybean crop, regi
 
 Later, when the farmer has computer and internet facilities, he can open Microsoft BI interface, analyse the results of the photos, diagnostics, where the photos were collected in a google earth satelite map, and access information and reports on how to mitigate the disease.
 
-A convolutional neural network (CNN) model was developed on the Edge Impulse platform, achieving an accuracy of 87.7% in classifying five prevalent diseases in Brazil: Target Spot, Asian Rust, Brown Spot, Frog Eye Leaf Spot, Potassium Deficiency, and the Healthy class. The Edge Impulse export the ML model as an Arduino library that can be built as part of the microcontroller code.
+A convolutional neural network (CNN) model was developed on the Edge Impulse platform, achieving an accuracy of 87.7% in classifying five prevalent diseases in Brazil: Target Spot (mancha alvo in Portuguese), Asian Rust (ferrugem asiática in Portuguese), Frog Eye Leaf Spot (olho de rã in Portuguese), Potassium Deficiency (deficiência de potássio in Portuguese), and the Healthy (saudável in Portuguese) class. The Edge Impulse export the ML model as an Arduino library that can be built as part of the microcontroller code.
 
 Figure below shows the Intelligent System For Identifying Leaf Diseases In Soybean Crop process flow.
 
@@ -47,3 +47,13 @@ With 2 buttons: "Dashboard" for reports and maps and "Cartilhas" (booklet) for d
 Clicking on Dashboard...
 
 ![image](https://github.com/EAILAB-IFSP/TinyML_Soybean_Disease/blob/main/BI%20Dashboard%20page.png)
+
+Also, a BI Analysis Report is generated, related to the disease with most incidence during the images collection in the farm.
+
+![image](https://github.com/EAILAB-IFSP/TinyML_Soybean_Disease/blob/main/Report.png)
+
+Now, clicking on the "Cartilhas" button...
+
+![image](https://github.com/EAILAB-IFSP/TinyML_Soybean_Disease/blob/main/BI%20Cartilhas%20Page.png)
+
+
