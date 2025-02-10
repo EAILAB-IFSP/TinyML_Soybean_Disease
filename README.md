@@ -46,4 +46,4 @@ With 2 buttons: "Dashboard" for reports and maps and "Cartilhas" (booklet) for d
 
 Clicking on Dashboard...
 
-![image](https://github.com/EAILAB-IFSP/TinyML_Soybean_Disease/blob/main/BI%20Dashboard%20page.png
+![image](https://github.com/EAILAB-IFSP/TinyML_Soybean_Disease/blob/main/BI%20Dashboard%20page.png)
