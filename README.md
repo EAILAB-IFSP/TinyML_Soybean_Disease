@@ -6,6 +6,9 @@ Hardware: ESP32-CAM, SD-Card, GPS Receiver model GY-NEO6MV2, 0.96" OLED Display,
 
 Figure below shows the hardware connection
 
-https://github.com/EAILAB-IFSP/TinyML_Soybean_Disease/blob/main/Circuit_of_Hardware.png
+![image](https://github.com/user-attachments/assets/592c87b8-025d-49f1-9ff3-8978c140a5c3)
+
+
+![image](https://github.com/EAILAB-IFSP/TinyML_Soybean_Disease/blob/main/Circuit_of_Hardware.png)
 
 
